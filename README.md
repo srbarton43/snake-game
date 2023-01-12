@@ -1,3 +1,5 @@
 # Snake Game module
-## This implementation uses ncurses to display the game
-### Sam Barton Winter 2023
+## Sam Barton Winter 2023
+
+
+#### This implementation uses ncurses to display the game
